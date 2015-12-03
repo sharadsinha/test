@@ -1,0 +1,32 @@
+{
+	"id" : "Content1",
+	"prefabName" : "Content1",
+	"imageName" : "auster-aop6",
+	"title" : "AUSTER A.O.P. 6",
+	"info" :
+"• A British military light observation aircraft produced by Auster Aircraft Limited from 1946 to 1953
+• An improved version of observation aircraft used during the Second World War
+• Closely related to the Taylorcraft BC-65 and a descendant of the Taylor E-2 Cub
+• Used in Korea by the British to scout for the enemy and direct artillery fire
+• Canada received thirty-four Auster 6s in 1948 for training military observers in Rivers, Manitoba
+• Withdrawn from Canadian service in 1958, although many remain in civil use
+• Auster 6 pilot Canadian Captain Peter Tees (seconded to the RAF) was awarded the Commonwealth Distinguished Flying Cross for flying in Korea
+• First flight was on May 1, 1945",
+	"mementos" : [
+		{
+			"id" : "Content1 Memento",
+			"imageName" : "auster-aop6",
+			"prefabName" : "Content1",
+			"title" : "AUSTER A.O.P. 6",
+			"info" :
+"• A British military light observation aircraft produced by Auster Aircraft Limited from 1946 to 1953
+• An improved version of observation aircraft used during the Second World War
+• Closely related to the Taylorcraft BC-65 and a descendant of the Taylor E-2 Cub
+• Used in Korea by the British to scout for the enemy and direct artillery fire
+• Canada received thirty-four Auster 6s in 1948 for training military observers in Rivers, Manitoba
+• Withdrawn from Canadian service in 1958, although many remain in civil use
+• Auster 6 pilot Canadian Captain Peter Tees (seconded to the RAF) was awarded the Commonwealth Distinguished Flying Cross for flying in Korea
+• First flight was on May 1, 1945",
+		},
+	],
+}

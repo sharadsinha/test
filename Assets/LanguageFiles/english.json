@@ -1,0 +1,51 @@
+{
+	"id" : "en",
+	"name" : "English",
+	"version" : "1",
+	"dict" : {
+		"INFO" : "INFO",
+		"INSTRUCTIONS" : "Instructions",
+		"INVALID_QR_CODE_INSTRUCTIONS" : "This is an invalid QR Code{0}",
+		"LOADING" : "Loading...",
+		"LOST_TRACKING_INSTRUCTIONS" : "Lost tracking. Move the camera back to the QR code.",
+		"MARKERLESS_PHOTO" : "TAKE PHOTO",
+		"MEMENTOS" : "MEMENTOS",
+		"MORE_INFO" : "MORE INFO",
+		"MOVEMENT_WARNING" : "Don't move too quickly",
+		"SCAN" : "SCAN",
+		"SELFIE" : "SELFIE",
+		"SELFIE_IMAGE_SHARE_SUBJECT" : "Hello from the Canada Aviation and Space Museum.",
+		"SELFIE_IMAGE_SHARE_MESSAGE" : "Check out this awesome augmented reality selfie from the Canada Aviation and Space Museum.",
+		"SELFIE_SHARE" : "EDIT & SHARE",
+		"SHARE" : "SHARE",
+		"UNDETECTED_INSTRUCTIONS" : "Point the camera at a QR code.",
+		"VIEW" : "VIEW",
+		"TUTORIAL_CONTINUE" : "(tap to continue)",
+		"MAIN_MENU_TUTORIAL_1" : "Welcome to the Ottawa Aviation and Space Museum Augmented Reality Experience!",
+		"MAIN_MENU_TUTORIAL_2" : "Tap the Scan button below to get started",
+		"MAIN_MENU_TUTORIAL_3" : 
+"Now that you've unlocked a model, you can take it home with you and view it at any time!
+
+Tap on the Mementos button to view",
+		"MAIN_MENU_TUTORIAL_4" : 
+"One last thing!
+You can find settings for this app by clicking here",
+		"QR_TUTORIAL_1" : "Around the museum you'll find QR Codes that look like this:",
+		"QR_TUTORIAL_2" : "Find a QR code and scan it to begin!",
+		"QR_TUTORIAL_3" : "You can rotate the model by swiping with your finger",
+		"QR_TUTORIAL_4" :
+"You can also view more info about this model
+OR
+take a selfie with the model",
+		"SELFIE_TUTORIAL" :
+"You can now take a slefie with the model!
+
+To adjust the model:
+• Pinch to zoom
+• Tap and drag on model to move
+• Swipe off model to rotate",
+		"MEMENTOS_TUTORIAL" : "Here's a list of all the mementos you've unlocked! Tap on a model to scan and view anywhere on any flat surface!",
+		"MARKERLESS_TUTORIAL" : "Take a photo of any flat surface (table, magazine cover, etc to view your model!",
+		"MARKERLESS_INIT" : "MOVE TO INITIALIZE",
+	}
+}

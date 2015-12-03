@@ -1,0 +1,30 @@
+{
+	"id" : "Content2",
+	"imageName" : "avro-arrow2",
+	"prefabName" : "Content2",
+	"title" : "AVRO CF-105 ARROW 2",
+	"info" : 
+"• First and last supersonic interceptor designed and built in Canada; developed between 1953 and 1959
+• Developed to counter jet-powered Soviet bombers that had potential to attack North America via the Canadian Arctic
+• Fitted with innovative technologies, including a fly-by-wire control system and a computerized control system that allowed the pilot to operate the aircraft electronically
+• Cancelled February 20, 1959 (known as \"Black Friday\"), a decision that remains controversial today
+• An icon of Canadian aviation history, it is featured in books, television programs, paintings and films
+• Drew international expertise to Canada with its U.K.-born chief engineer James C. Floyd and gifted Polish-born test pilot Janusz Zurakowski
+• First flight was on March 25th, 1958",
+	"mementos" : [
+		{
+			"id" : "Content2 Memento",
+			"imageName" : "avro-arrow2",
+			"prefabName" : "Content2",
+			"title" : "AVRO CF-105 ARROW 2",
+			"info" : 
+"• First and last supersonic interceptor designed and built in Canada; developed between 1953 and 1959
+• Developed to counter jet-powered Soviet bombers that had potential to attack North America via the Canadian Arctic
+• Fitted with innovative technologies, including a fly-by-wire control system and a computerized control system that allowed the pilot to operate the aircraft electronically
+• Cancelled February 20, 1959 (known as \"Black Friday\"), a decision that remains controversial today
+• An icon of Canadian aviation history, it is featured in books, television programs, paintings and films
+• Drew international expertise to Canada with its U.K.-born chief engineer James C. Floyd and gifted Polish-born test pilot Janusz Zurakowski
+• First flight was on March 25th, 1958",
+		},
+	],
+}

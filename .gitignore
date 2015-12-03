@@ -1,0 +1,8 @@
+/Temp/
+/Library/
+/Assembly-*
+/*.sln
+/*.userprefs
+
+*.DS_Store
+Builds/*

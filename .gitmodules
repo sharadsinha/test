@@ -1,0 +1,21 @@
+[submodule "Assets/Library/General"]
+	path = Assets/Library/General
+	url = git@github.com:MARC-O-POLO/Library.git
+[submodule "Assets/Library/Utils"]
+	path = Assets/Library/Utils
+	url = git@github.com:MARC-O-POLO/Library.git
+[submodule "Assets/Plugins/iOS/PoseEstimation"]
+	path = Assets/Plugins/iOS/PoseEstimation
+	url = git@github.com:MARC-O-POLO/Technology.git
+[submodule "Assets/Plugins/iOS/Utility"]
+	path = Assets/Plugins/iOS/Utility
+	url = git@github.com:MARC-O-POLO/Technology.git
+[submodule "Assets/PoseEstimation"]
+	path = Assets/PoseEstimation
+	url = git@github.com:MARC-O-POLO/UnityLibrary.git
+[submodule "Assets/Plugins/iOS/Ferns"]
+	path = Assets/Plugins/iOS/Ferns
+	url = git@github.com:MARC-O-POLO/Technology.git
+[submodule "Assets/Plugins/iOS/OpenCVFramework"]
+	path = Assets/Plugins/iOS/OpenCVFramework
+	url = git@github.com:MARC-O-POLO/OpenCV.git
